@@ -44,3 +44,10 @@ O objetivo deste projeto é proporcionar uma interface simples e eficiente para 
 4. **Explore as Telas**
   - Tela de Busca de CEP: Insira um CEP válido para buscar o endereço correspondente.
   - Tela de Histórico: Veja os endereços previamente buscados.
+
+## Imagem da Tela Inicial
+![Tela Inicial](img/home.png)
+## Imagem da Busca realizada
+![Tela Inicial](img/cep.png)
+## Imagem do Histórico
+![Tela Inicial](img/historico.png)
